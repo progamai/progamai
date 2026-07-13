@@ -86,18 +86,6 @@ Atualmente concluo o **Bootcamp de Análise de Dados da TripleTen**, desenvolven
 
 ---
 
-## 🏆 Conquistas
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=progamai&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=progamai&style=for-the-badge&color=blue"/>
-
-</p>
 
 
