@@ -1,5 +1,8 @@
 <img width="1983" height="793" alt="ChatGPT Image 13 de jul  de 2026, 18_45_05" src="https://github.com/user-attachments/assets/3833351a-8d12-4a98-9135-e04027a9c94b" />
-<img width="100%" src="COLE_AQUI_O_LINK_DO_BANNER">
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=2E9EFF&center=true&vCenter=true&width=900&lines=Data+Analyst;Python+%7C+SQL+%7C+Machine+Learning;Transformando+dados+em+decis%C3%B5es+inteligentes." />
+</p>
 
 <h1 align="center">Olá, eu sou o Maicon Santos 👋</h1>
 
@@ -66,11 +69,8 @@ Atualmente concluo o **Bootcamp de Análise de Dados da TripleTen**, desenvolven
 
 📧 **maiconn.ds1234@gmail.com**
 
-💼 LinkedIn *(www.linkedin.com/in/maicon-santos-dataanalyst)*
+💼 <a href="https://www.linkedin.com/in/maicon-santos-dataanalyst">LinkedIn</a>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=2E9EFF&center=true&vCenter=true&width=900&lines=Data+Analyst;Python+%7C+SQL+%7C+Machine+Learning;Transformando+dados+em+decis%C3%B5es+inteligentes." />
-</p>
 
 ---
 
