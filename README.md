@@ -78,9 +78,10 @@ Atualmente concluo o **Bootcamp de Análise de Dados da TripleTen**, desenvolven
 
 <p align="center">
 
-https://github-readme-stats.vercel.app/api?username=progamai&show_icons=true&theme=github_dark&hide_border=true
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=progamai&show_icons=true&theme=github_dark&hide_border=true"/>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=progamai&layout=compact&theme=github_dark&hide_border=true
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=progamai&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 ---
