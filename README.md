@@ -20,7 +20,7 @@ Sou formado em **Ciências Contábeis** e estou em transição de carreira para 
 
 Após mais de **18 anos de experiência em gestão comercial e atendimento ao cliente**, descobri na análise de dados uma forma de unir pensamento analítico, estratégia e tomada de decisão baseada em evidências.
 
-Atualmente concluo o **Bootcamp de Análise de Dados da TripleTen**, desenvolvendo projetos com dados reais utilizando Python, SQL, Estatística e Machine Learning.
+Concluí o Bootcamp de Análise de Dados da TripleTen, desenvolvendo projetos com dados reais utilizando Python, SQL, Estatística e Machine Learning.
 
 🎯 Objetivo: conquistar minha primeira oportunidade como **Analista de Dados Júnior**.
 
@@ -30,15 +30,23 @@ Atualmente concluo o **Bootcamp de Análise de Dados da TripleTen**, desenvolven
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 
-<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 
 </p>
 
@@ -48,12 +56,35 @@ Atualmente concluo o **Bootcamp de Análise de Dados da TripleTen**, desenvolven
 
 | Projeto | Descrição |
 |---------|-----------|
-| 📞 Teste A/B | Análise estatística utilizando testes Z e Mann-Whitney |
-| 📈 Previsão de Churn | Machine Learning para prever cancelamento de clientes |
-| 📊 Marketing Analytics | Análise de LTV, CAC, ROMI e retenção |
+| 🧪 A/B Testing | Testes estatísticos (Z-Test, Mann-Whitney e análise experimental) |
+| 🤖 Churn Prediction | Machine Learning para previsão de cancelamento de clientes |
+| 📈 Marketing Analytics | CAC, LTV, ROMI e métricas de negócio |
+| 📚 Book Service SQL | Consultas SQL para análise estratégica de banco de dados |
+| 📞 Call Center Performance | EDA, KPIs e análise de desempenho operacional |
 | 🎵 Se Liga na Música | Projeto Full Stack desenvolvido em equipe |
-
 ---
+
+## 💼 Competências
+
+✔ Análise Exploratória de Dados (EDA)
+
+✔ Limpeza e Tratamento de Dados
+
+✔ SQL
+
+✔ Python
+
+✔ Estatística
+
+✔ Testes A/B
+
+✔ Machine Learning
+
+✔ Business Analytics
+
+✔ Storytelling com Dados
+
+✔ Visualização de Dados
 
 ## 📚 Atualmente estudando
 
@@ -67,10 +98,14 @@ Atualmente concluo o **Bootcamp de Análise de Dados da TripleTen**, desenvolven
 
 ## 📫 Contato
 
-📧 **maiconn.ds1234@gmail.com**
+📧 Email:
+maiconn.ds@hotmail.com
 
-💼 <a href="https://www.linkedin.com/in/maicon-santos-dataanalyst">LinkedIn</a>
+💼 LinkedIn:
+https://linkedin.com/in/maicon-santos-dataanalyst
 
+💻 GitHub:
+https://github.com/progamai
 
 ---
 
